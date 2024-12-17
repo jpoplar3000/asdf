@@ -1,0 +1,12 @@
+{
+  "packages": {
+    "file1.txt": {
+      "release-type": "simple",
+      "package-name": "file1"
+    },
+    "file2.txt": {
+      "release-type": "simple",
+      "package-name": "file2"
+    }
+  }
+}
